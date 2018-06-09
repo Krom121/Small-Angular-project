@@ -13,6 +13,7 @@ body{
 }
 
 #content {
+  float: right;
   padding: 30px 50px;
 }
 
